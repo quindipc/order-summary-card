@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-card-Y_DK-KHlw](https://www.frontendmentor.io/solutions/order-summary-card-Y_DK-KHlw)
-- Live Site URL: [quindipc.github.io/order-summary-card/](quindipc.github.io/order-summary-card/)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-card-Y_DK-KHlw]
+- Live Site URL: [quindipc.github.io/order-summary-card/]
 
 ## My process
 
